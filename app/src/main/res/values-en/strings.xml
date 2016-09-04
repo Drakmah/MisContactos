@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact List</string>
+    <string name="nombre">Fernando</string>
+    <string name="telefono">55557777</string>
+    <string name="email">fernando@gmail.com</string>
+    <string name="pnombre">name</string>
+    <string name="ptelefono">phone</string>
+    <string name="pemail">email</string>
+
+</resources>
